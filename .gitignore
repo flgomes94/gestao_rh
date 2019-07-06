@@ -91,3 +91,15 @@ db.sqlite3
 .idea
 venv
 *.pyc
+
+*.log
+
+*.pot
+
+*.pyc
+
+*/*/*/__pycache__/
+
+*/*/__pycache__/
+
+*/__pycache__/
